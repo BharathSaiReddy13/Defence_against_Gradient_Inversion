@@ -4,5 +4,5 @@
 - Other approach using adversarial training based approach Discriminator is siamesnetwork and generator is simple autoencoder.
 
 ## Progress
-- full working code is in completecode folder, this repository will be update to make code more modular
+- full working code is in complete_code folder, this repository will be update to make code more modular
 
